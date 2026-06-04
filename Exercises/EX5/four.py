@@ -14,4 +14,12 @@ else:
     median=ages[n//2]
 print("Median ages ",median)
 #average
-
+average=sum(ages)/len(ages)
+print("Average :",average)
+range=max(ages)-min(ages)
+print(range)
+min_diff=round(abs(min(ages)-average),2)
+max_diff=round(abs(max(ages)-average),2)
+print(min_diff)
+print(max_diff)
+#abs() converts negative values to positive values.
