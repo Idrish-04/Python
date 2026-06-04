@@ -14,3 +14,4 @@ else:
     median=ages[n//2]
 print("Median ages ",median)
 #average
+
