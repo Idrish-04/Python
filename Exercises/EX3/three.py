@@ -1,0 +1,11 @@
+print("on"in "python" and "on"in "dragon")
+a="I hope this course is not full of jargon"
+print("jargon" in a)
+print("on" not in "python" and "on" not in "dragon")
+a=len("python")
+b=float(a)
+c=str(b)
+print(a)
+print(b)
+print(c)
+print(type(c))
