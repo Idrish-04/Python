@@ -20,5 +20,8 @@
 
     "editor.suggestOnTriggerCharacters": true,
 
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "editor.tabCompletion": "on",
+"editor.acceptSuggestionOnEnter": "on",
+"editor.suggestSelection": "first"
 }
