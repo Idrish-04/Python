@@ -12,4 +12,3 @@ elif month in ["June", "July", "August"]:
 
 else:
     print("Invalid month")
-#
